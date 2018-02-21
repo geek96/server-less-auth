@@ -1,0 +1,23 @@
+.app {
+  width: 600px;
+  margin: 50px auto;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  width: 400px;
+}
+
+
+p label {
+  display: block;
+}
+
+textarea {
+  width: 400px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 2px;
+}
